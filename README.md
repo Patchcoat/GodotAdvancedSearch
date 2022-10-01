@@ -4,7 +4,7 @@ An addon for the Godot game engine version 3.5 that makes it easier to find scen
 ![Screenshot 1](/Screenshot1.png) ![Screenshot 2](/Screenshot2.png) ![Screenshot 3](/Screenshot3.png)
 
 # Installation
-Put the advanced_search folder and all it's contents in your project's addons folder, then go to Project->Project Settings->Plugins and set enabled to true. It should appear in the bottom left pannel, next to the File System tab if you are using the default Godot layout.
+Put the advanced_search folder and all its contents in your project's addons folder, then go to Project->Project Settings->Plugins and set enabled to true. It should appear in the bottom left pannel, next to the File System tab if you are using the default Godot layout.
 
 # Usage
 In the Scene List tab you can type text into the search box. This is useful for searching for nodes by name, and will filter out all scenes that do not contain a node with that text string in the name. The searching should happen automatically as you type, but a search button is provided just in case.
