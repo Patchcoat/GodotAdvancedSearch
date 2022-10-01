@@ -17,4 +17,4 @@ Once you have a list of scenes, you can click any one of them. Godot will open t
 Files and folders beginning with '.', and the contents of folders named "addons" or "builds" in res:// will be ignored by the search.
 
 # Additional Work
-Currently, the list of available node types to filter by is quite small. If there are specific nodes you would like me to add, open an issue. Hopefully this is a temporary situation until I can figure out how to grab all available nodes in Godot and generate the list from them.
+Currently, the list of available node types to filter by is quite small. If there are specific nodes you would like me to add, open an issue. Hopefully this is a temporary situation until I can figure out how to generate a list from all available nodes in Godot.
