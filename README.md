@@ -1,4 +1,4 @@
-# GodotAdvancedSearch
+# Godot Advanced Search
 An addon for the Godot game engine version 3.5 that makes it easier to find scenes in your project that contain specific nodes.
 
 ![Screenshot 1](/Screenshot1.png) ![Screenshot 2](/Screenshot2.png) ![Screenshot 3](/Screenshot3.png)
